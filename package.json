@@ -1,0 +1,21 @@
+{
+  "name": "sequence_by_mehwish",
+  "version": "1.0.0",
+  "description": "to find the next term",
+  "main": "1.js",
+  "type": "module",
+  "bin": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "mehwish",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.14.2",
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
